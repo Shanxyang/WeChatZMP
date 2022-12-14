@@ -1,0 +1,32 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxb39a55a50d91f559",
+# 公众号appSecret
+"app_secret": "15181812be6b69e548e7479935fe4423",
+# 模板消息id
+"template_id": "m5tvH5rm2C34GHV8pP0DZgIvddn1GX34ir4kJK_CTIY",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o2jAI6oauZAswgSSyofe7ivcw8-o","o2jAI6vlih4suvcgty6pUOzf14fM","o2jAI6u4t4eQad7SRv4gUHuEV1fs","o2jAI6sgTRbjgx8t6dRH_yRBXfKA","o2jAI6idMnnysBkIf0sK4kVxWLy4","o2jAI6lZ63knt-uqD98DGwphIzpA","o2jAI6v7y9Lkoh5dk2kyytSlYOV4"],
+# 信息配置
+# 所在省份
+"province": "广东",
+# 所在城市
+"city": "广州",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "奶油小泡符女士", "birthday": "r1996-03-15"},
+# 生日2
+"birthday2": {"name": "头发不烫冉女士", "birthday": "r1997-01-18"},
+# 生日3
+"birthday3": {"name": "快乐百分白女士", "birthday": "r1999-05-17"},
+# 生日4
+"birthday4": {"name": "咖啡不加唐先生", "birthday": "2001-05-22"},
+# 生日5
+"birthday5": {"name": "约会不紧张先生", "birthday": "r1998-05-07"},
+# 生日6
+"birthday6": {"name": "皮蛋瘦肉邹先生", "birthday": "r2002-09-08"},
+# 生日7
+"birthday7": {"name": "炫酷小风单先生", "birthday": "r2002-12-02"},
+# 在一起的日子，格式同上
+"love_date": "2022-6-18"
+}
